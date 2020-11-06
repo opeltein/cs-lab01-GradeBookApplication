@@ -1,0 +1,12 @@
+C:\Users\opelt\OneDrive\Pulpit\cs-lab01-GradeBookApplication-master\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.deps.json
+C:\Users\opelt\OneDrive\Pulpit\cs-lab01-GradeBookApplication-master\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.runtimeconfig.json
+C:\Users\opelt\OneDrive\Pulpit\cs-lab01-GradeBookApplication-master\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.runtimeconfig.dev.json
+C:\Users\opelt\OneDrive\Pulpit\cs-lab01-GradeBookApplication-master\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.dll
+C:\Users\opelt\OneDrive\Pulpit\cs-lab01-GradeBookApplication-master\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.pdb
+C:\Users\opelt\OneDrive\Pulpit\cs-lab01-GradeBookApplication-master\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.csprojAssemblyReference.cache
+C:\Users\opelt\OneDrive\Pulpit\cs-lab01-GradeBookApplication-master\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.AssemblyInfoInputs.cache
+C:\Users\opelt\OneDrive\Pulpit\cs-lab01-GradeBookApplication-master\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.AssemblyInfo.cs
+C:\Users\opelt\OneDrive\Pulpit\cs-lab01-GradeBookApplication-master\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.csproj.CoreCompileInputs.cache
+C:\Users\opelt\OneDrive\Pulpit\cs-lab01-GradeBookApplication-master\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.dll
+C:\Users\opelt\OneDrive\Pulpit\cs-lab01-GradeBookApplication-master\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.pdb
+C:\Users\opelt\OneDrive\Pulpit\cs-lab01-GradeBookApplication-master\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.genruntimeconfig.cache
